@@ -1,0 +1,2 @@
+ln -s /src/path link-file-name
+ln -s $(pwd)/filename link-file-name
